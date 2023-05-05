@@ -1,0 +1,4 @@
+6) a- La commande git pull automatise la mise à jour des données mais peut entraîner de nombreux conflits et la commande git fetch permet de garder son répertoire de travail à jour et de contrôler le moment où on souhaite fusionner les données.
+b)  Git reset : elle rétablis l'état d'une branche dans une validation précédente
+c) la commande  git push avec cette option : ( --delete )
+d) utiliser la commande git log 
